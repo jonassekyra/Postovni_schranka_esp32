@@ -1,1 +1,0 @@
-# Postovni_schranka_esp32
